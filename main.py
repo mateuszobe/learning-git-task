@@ -10,3 +10,4 @@ for sklep, rzeczy in slownik.items():
     rzeczy = [rzecz.title() for rzecz in rzeczy]
     x +=len(rzeczy)
     print (f"Idę do {sklep}, kupuję tu następujące rzeczy: {rzeczy}")
+print(f"W sumie kupuję {x} produktów")
