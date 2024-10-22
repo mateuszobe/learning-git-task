@@ -15,3 +15,5 @@ for sklep, rzeczy in slownik.items():
 print(f"W sumie kupuję {x} produktów")
 
 #dodatkowy komentarz 
+#pozdrowienia
+print("Smacznej kawusi!")
